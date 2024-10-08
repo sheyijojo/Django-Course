@@ -1,6 +1,8 @@
 # DevSearch
 Sourcode and Resources for Django 5 Course
 
+drawsql.com
+
 See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
 
 
